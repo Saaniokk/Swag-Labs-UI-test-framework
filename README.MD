@@ -3,6 +3,8 @@
 
 ## Requirements
 - Node v22
+- Playwright v1.50
+
 
 ## Project structure
 ### Folder structure
